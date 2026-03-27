@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Awesome Anime Hacker Header -->
-<img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="100%" alt="Anime Hacker" />
+<img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" height="230" alt="Anime Hacker" />
 <br/>
 <h1 align="center">Welcome to Hung558's Space 🚀</h1>
 
