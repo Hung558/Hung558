@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Awesome Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,15,19&height=240&section=header&text=Hung558's%20Space&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🚀%20Fullstack%20Software%20Engineer%20🔥&descAlignY=55&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=240&section=header&text=Welcome%20to%20Hung558's%20Space&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🚀%20Fullstack%20Software%20Engineer%20🔥&descAlignY=60&descSize=22"/>
 
 <!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
@@ -112,5 +112,5 @@ Over time, I have worked on several comprehensive projects:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,15,19&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&section=footer" />
 </div>
