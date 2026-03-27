@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Awesome Anime Hacker Header -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlwZTNndTR4Y2VmcXh1bGswbnRkcDU3enIxaTNnaWJzY3B3Mmh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif" width="100%" height="310" alt="Anime Character" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlwZTNndTR4Y2VmcXh1bGswbnRkcDU3enIxaTNnaWJzY3B3Mmh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif" width="100%" height="333" alt="Anime Character" />
 <br/>
 <h1 align="center">Welcome to Hung558's Space 🚀</h1>
 
