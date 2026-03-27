@@ -91,8 +91,7 @@ Over time, I have worked on several comprehensive projects:
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Hung558&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung558&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" height="190" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hung558&theme=radical" alt="GitHub Profile Details" />
 
 </div>
 
