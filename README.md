@@ -35,8 +35,8 @@ I'm a passionate developer with experience across multiple stacks and platforms.
   "role": "Software Enginee",
   "focus": "Fullstack Software Developer",
   "education": "FPT University",
-  "hobbies": ["Gaming","Music","Anime",""],
-  "funfact": "i wish i could change my major Owo"
+  "hobbies": ["Gaming","Music","Anime","love watching DungCT aka TrucTiepGame"],
+  "funfact": "i wish i could change my major Owo",
 }
 ```
 
