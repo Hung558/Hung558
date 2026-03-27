@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Awesome Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=240&section=header&text=Welcome%20to%20Hung558's%20Space&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🚀%20Fullstack%20Software%20Engineer%20🔥&descAlignY=60&descSize=22"/>
+<!-- Awesome Anime Hacker Header -->
+<img src="https://media.tenor.com/O1n6Irt2_C8AAAAC/anime-code.gif" width="100%" style="border-radius: 12px;" alt="Anime Hacker" />
+<br/>
+<h1 align="center">Welcome to Hung558's Space 🌌</h1>
 
 <!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
@@ -112,5 +114,5 @@ Over time, I have worked on several comprehensive projects:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&section=footer" />
+  <img src="https://i.pinimg.com/originals/c9/a7/69/c9a7695ae07d4b4a682da7f0d4ca073d.gif" height="100" style="border-radius: 10px;" alt="Footer Anime" />
 </div>
