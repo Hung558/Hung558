@@ -30,9 +30,11 @@ I'm a passionate developer with experience across multiple stacks and platforms.
 {
   "name": "Hung (Hung558)",
   "location": "Vietnam 🇻🇳",
-  "role": "Fullstack Software Developer",
-  "languages": ["Java", "JavaScript", "HTML", "CSS"],
-  "focus": "Building robust Web & Mobile Applications"
+  "role": "Software Enginee",
+  "focus": "Fullstack Software Developer",
+  "education": "FPT University",
+  "hobbies": ["Gaming","Music"],
+  "funfact": "i wish i could change my major Owo"
 }
 ```
 
