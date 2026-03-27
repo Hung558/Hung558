@@ -40,10 +40,10 @@ I'm a passionate developer with experience across multiple stacks and platforms.
 
 ## 🚀 Projects & Experience
 Over time, I have worked on several comprehensive projects:
-- **Web App (Java EE):** `JSP`, `Servlet` với cơ sở dữ liệu `SQL Server`
-- **Fullstack Web App:** `ReactJS` (Frontend) + `NodeJS` (Backend) với cơ sở dữ liệu `MongoDB`
-- **Enterprise Web App:** `Spring Boot` thuần với cơ sở dữ liệu `MySQL Workbench`
-- **Mobile Application:** `React Native / Expo` (Frontend) + `Spring Boot` (Backend) với cơ sở dữ liệu `MySQL Workbench`
+- **Web App (Java EE):** `JSP`, `Servlet` with `SQL Server` database
+- **Fullstack Web App:** `ReactJS` (Frontend) + `NodeJS` (Backend) with `MongoDB`
+- **Enterprise Web App:** Vanilla `Spring Boot` with `MySQL Workbench`
+- **Mobile Application:** `React Native / Expo` (Frontend) + `Spring Boot` (Backend) with `MySQL Workbench`
 
 ---
 
@@ -51,7 +51,7 @@ Over time, I have worked on several comprehensive projects:
 
 <div align="center">
 
-### Lập trình & Markup
+### Programming Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,java&theme=dark" alt="Languages" />
 </a>
@@ -61,19 +61,27 @@ Over time, I have worked on several comprehensive projects:
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring&theme=dark" alt="Frameworks" />
 </a>
 
-### File & Database
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
-</a>
-<br/>
-<p><i>(Ngoài ra, tôi cũng thường xuyên sử dụng <b>SQL Server</b>)</i></p>
+### Databases
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
+  </a>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" height="48" style="border-radius: 4px;"/>
+</div>
 
 ### Tools & IDEs
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" alt="Tools" />
-</a>
-<br/>
-<p><i>(Bao gồm cả <b>NetBeans</b>, <b>Spring Tool Suite</b>, <b>Canva</b>, và <b>Jira</b>)</i></p>
+<div align="center" style="margin-bottom: 15px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" alt="Tools" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="STS" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</div>
 
 </div>
 
