@@ -57,23 +57,41 @@ Over time, I have worked on several comprehensive projects:
 
 <h3>💻 Programming Languages</h3>
 <p>
-  <kbd>&nbsp; <b>Java</b> &nbsp;</kbd> • <kbd>&nbsp; <b>JavaScript</b> &nbsp;</kbd> • <kbd>&nbsp; <b>HTML5</b> &nbsp;</kbd> • <kbd>&nbsp; <b>CSS3</b> &nbsp;</kbd>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 <h3>🏗️ Frameworks & Libraries</h3>
 <p>
-  <kbd>&nbsp; <b>ReactJS</b> &nbsp;</kbd> • <kbd>&nbsp; <b>React Native</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Node.js</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Express</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Spring Boot</b> &nbsp;</kbd>
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring" />
 </p>
 
 <h3>🗄️ Databases</h3>
 <p>
-  <kbd>&nbsp; <b>MySQL</b> &nbsp;</kbd> • <kbd>&nbsp; <b>MongoDB</b> &nbsp;</kbd> • <kbd>&nbsp; <b>SQL Server</b> &nbsp;</kbd>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
 <h3>⚙️ Tools & IDEs</h3>
 <p>
-  <kbd>&nbsp; <b>Git / GitHub</b> &nbsp;</kbd> • <kbd>&nbsp; <b>VS Code</b> &nbsp;</kbd> • <kbd>&nbsp; <b>IntelliJ IDEA</b> &nbsp;</kbd> • <kbd>&nbsp; <b>NetBeans</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Spring Tool Suite</b> &nbsp;</kbd> <br/><br/>
-  <kbd>&nbsp; <b>Postman</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Figma</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Canva</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Jira</b> &nbsp;</kbd>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="STS" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 </div>
