@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Awesome Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20Hung558's%20Space&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Developer%20|%20Dreamer%20|%20Creator%20🔥&descAlignY=60&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Welcome%20to%20Hung558's%20Space&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Developer%20|%20Dreamer%20|%20Creator%20🔥&descAlignY=60&descSize=20"/>
 
 <!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hung!+👋;I+build+awesome+software;Turning+coffee+into+code;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hung!+👋;I+build+awesome+software;Turning+coffee+into+code;Let's+build+something+great!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,71 +13,73 @@
 <!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://github.com/Hung558"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-<!-- Trophies (Khác biệt xịn sò so với nvdekay) -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hung558&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Hung558 Trophies" />
-</a>
-
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Hung558&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & My Journey
 
-<div align="center">
-  <p>Exploring the tech universe, one syntax error at a time. I love building scalable applications, learning new architectures, and pushing my limits.</p>
-</div>
+I'm a passionate developer with experience across multiple stacks and platforms. My journey includes building web and mobile applications using modern technologies and robust frameworks.
 
 ```json
 {
   "name": "Hung (Hung558)",
   "location": "Vietnam 🇻🇳",
-  "education": "FPT University",
-  "role": "Software Developer",
-  "hobbies": ["Coding 💻", "Gaming 🎮", "Music 🎧"],
-  "motto": "Build to learn, learn to build."
+  "role": "Fullstack Software Developer",
+  "languages": ["Java", "JavaScript", "HTML", "CSS"],
+  "focus": "Building robust Web & Mobile Applications"
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🚀 Projects & Experience
+Over time, I have worked on several comprehensive projects:
+- **Web App (Java EE):** `JSP`, `Servlet` với cơ sở dữ liệu `SQL Server`
+- **Fullstack Web App:** `ReactJS` (Frontend) + `NodeJS` (Backend) với cơ sở dữ liệu `MongoDB`
+- **Enterprise Web App:** `Spring Boot` thuần với cơ sở dữ liệu `MySQL Workbench`
+- **Mobile Application:** `React Native / Expo` (Frontend) + `Spring Boot` (Backend) với cơ sở dữ liệu `MySQL Workbench`
 
-*(Using gorgeous skill-icons for a much cleaner and premium look)*
+---
+
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-### Languages
+### Lập trình & Markup
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java&theme=dark" alt="Languages" />
 </a>
 
-### Frontend & Backend 
+### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,nodejs,express,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring&theme=dark" alt="Frameworks" />
 </a>
 
-### Cloud & Database
+### File & Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
 </a>
+<br/>
+<p><i>(Ngoài ra, tôi cũng thường xuyên sử dụng <b>SQL Server</b>)</i></p>
 
-### Tools
+### Tools & IDEs
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" alt="Tools" />
 </a>
+<br/>
+<p><i>(Bao gồm cả <b>NetBeans</b>, <b>Spring Tool Suite</b>, <b>Canva</b>, và <b>Jira</b>)</i></p>
 
 </div>
 
 ---
 
-## 🚀 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
   
