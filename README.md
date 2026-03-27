@@ -55,37 +55,26 @@ Over time, I have worked on several comprehensive projects:
 
 <div align="center">
 
-### Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java&theme=dark" alt="Languages" />
-</a>
+<h3>💻 Programming Languages</h3>
+<p>
+  <kbd>&nbsp; <b>Java</b> &nbsp;</kbd> • <kbd>&nbsp; <b>JavaScript</b> &nbsp;</kbd> • <kbd>&nbsp; <b>HTML5</b> &nbsp;</kbd> • <kbd>&nbsp; <b>CSS3</b> &nbsp;</kbd>
+</p>
 
-### Frameworks & Libraries
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring&theme=dark" alt="Frameworks" />
-</a>
+<h3>🏗️ Frameworks & Libraries</h3>
+<p>
+  <kbd>&nbsp; <b>ReactJS</b> &nbsp;</kbd> • <kbd>&nbsp; <b>React Native</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Node.js</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Express</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Spring Boot</b> &nbsp;</kbd>
+</p>
 
-### Databases
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
-  </a>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" height="48" style="border-radius: 4px;"/>
-</div>
+<h3>🗄️ Databases</h3>
+<p>
+  <kbd>&nbsp; <b>MySQL</b> &nbsp;</kbd> • <kbd>&nbsp; <b>MongoDB</b> &nbsp;</kbd> • <kbd>&nbsp; <b>SQL Server</b> &nbsp;</kbd>
+</p>
 
-### Tools & IDEs
-<div align="center" style="margin-bottom: 15px;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" alt="Tools" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="STS" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-</div>
+<h3>⚙️ Tools & IDEs</h3>
+<p>
+  <kbd>&nbsp; <b>Git / GitHub</b> &nbsp;</kbd> • <kbd>&nbsp; <b>VS Code</b> &nbsp;</kbd> • <kbd>&nbsp; <b>IntelliJ IDEA</b> &nbsp;</kbd> • <kbd>&nbsp; <b>NetBeans</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Spring Tool Suite</b> &nbsp;</kbd> <br/><br/>
+  <kbd>&nbsp; <b>Postman</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Figma</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Canva</b> &nbsp;</kbd> • <kbd>&nbsp; <b>Jira</b> &nbsp;</kbd>
+</p>
 
 </div>
 
