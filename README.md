@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Awesome Anime Hacker Header -->
-<img src="https://media.tenor.com/O1n6Irt2_C8AAAAC/anime-code.gif" width="100%" style="border-radius: 12px;" alt="Anime Hacker" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Anime Hacker" />
 <br/>
-<h1 align="center">Welcome to Hung558's Space 🌌</h1>
+<h1 align="center">Welcome to Hung558's Space 🚀</h1>
 
 <!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
@@ -113,6 +113,5 @@ Over time, I have worked on several comprehensive projects:
 
 <br/>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/c9/a7/69/c9a7695ae07d4b4a682da7f0d4ca073d.gif" height="100" style="border-radius: 10px;" alt="Footer Anime" />
-</div>
+<hr/>
+<p align="center"><i>Driven by curiosity. Fueled by code.</i></p>
