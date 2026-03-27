@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Awesome Anime Hacker Header -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlwZTNndTR4Y2VmcXh1bGswbnRkcDU3enIxaTNnaWJzY3B3Mmh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif" width="100%" height="280" alt="Anime Character" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlwZTNndTR4Y2VmcXh1bGswbnRkcDU3enIxaTNnaWJzY3B3Mmh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif" width="100%" height="310" alt="Anime Character" />
 <br/>
 <h1 align="center">Welcome to Hung558's Space 🚀</h1>
 
 <!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hung!+👋;I+build+awesome+software;Turning+coffee+into+code;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hung!+👋;I+build+awesome+software;Turning+coffee+into+code;Trying+to+do+better!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@ I'm a passionate developer with experience across multiple stacks and platforms.
 {
   "name": "Hung (Hung558)",
   "location": "Vietnam 🇻🇳",
-  "role": "Software Enginee",
+  "role": "Software Engineer",
   "focus": "Fullstack Software Developer",
   "education": "FPT University",
   "hobbies": ["Gaming","Music","Anime","love watching DungCT aka TrucTiepGame"],
